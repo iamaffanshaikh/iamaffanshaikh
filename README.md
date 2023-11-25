@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @iamaffanshaikh
-- 👀 I’m interested in Graphic Design
-- 🌱 I’m currently learning 3D
-- 💞️ I’m looking to collaborate for new projects
-- 📫 +91 77108 12319
+
 
 <!---
 iamaffanshaikh/iamaffanshaikh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
